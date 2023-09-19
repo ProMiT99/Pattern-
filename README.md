@@ -1,4 +1,6 @@
 //For pattern 1
+
+
 #include<stdio.h>
 int main()
 {
@@ -14,7 +16,15 @@ int main()
     }
     return 0;
 }
+
+
+
+
 //For pattern 2
+
+
+
+
 #include<stdio.h>
 int main()
 {
@@ -31,7 +41,14 @@ int main()
     }
     return 0;
 }
+
+
+
+
 //For pattern 3
+
+
+
 #include<stdio.h>
 int main()
 {
@@ -47,7 +64,14 @@ int main()
     }
     return 0;
 }
+
+
+
+
 //For pattern 4
+
+
+
 #include<stdio.h>
 int main()
 {
@@ -66,7 +90,16 @@ int main()
     }
     return 0;
 }
+
+
+
+
+
 //For pattern 5
+
+
+
+
 #include <stdio.h>
 int main()
 {
@@ -84,7 +117,15 @@ int main()
 	}
 	return 0;
 }
+
+
+
 //For pattern 6
+
+
+
+
+
 #include <stdio.h>
 int main()
 {
@@ -100,7 +141,17 @@ int main()
 		printf("\n");
 	}
 }
+
+
+
+
+
+
 //For pattern 7
+
+
+
+
 #include <stdio.h>
 int main()
 {
@@ -123,5 +174,9 @@ int main()
 	}
 	return 0;
 }
+
+
+
+
 
 THANK YOU.....
